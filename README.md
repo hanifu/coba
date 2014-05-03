@@ -1,11 +1,11 @@
 coba
 ====
 Anggota Kelompok :
-1. Mirna Nadia (110311...)
-2. Mustafa Latifur Raffi(110311...)
-3. Anisyadita Ventrinur(110311...)
-4. Sofyan Qusyairi (110311...)
-5. Muhammad Hanif Abdillah (1103110165)
+1. 1103110116 - MUHAMMAD SOFYAN QUSYAIRI
+2. 1103110065 - ANISYADITA VENTRINUR
+3. 1103110220 - MIRNA NADIA
+4. 1103110210 - MUSTAFA LATIFUR RAFFI
+5. 1103110165 - MUHAMMAD HANIF ABDILLAH
 
 Kelas IF-35-02
 
